@@ -33,15 +33,6 @@ This project provides a comprehensive, DIY sprinkler automation solution using E
 3. Upload ESPHome configuration
 4. Integrate with Home Assistant
 
-## Configuration
-Detailed configuration instructions are available in `documentation/configuration_guide.md`
-
-## Troubleshooting
-Common issues and solutions can be found in `documentation/troubleshooting.md`
-
-## Contributing
-Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
-
 ## License
 License v3.0 (GPL-3.0)
 
