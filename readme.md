@@ -20,7 +20,7 @@ This project provides a comprehensive, DIY sprinkler automation solution using E
 - 8-channel relay module
 - Power supply
 - Valve solenoids
-- Waterproof enclosure
+- (Waterproof) enclosure
 
 ## Software Requirements
 - ESPHome
