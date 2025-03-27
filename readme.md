@@ -1,4 +1,4 @@
-# Sprinkler Automation with ESPHome
+# Sprinkler Automation with ESPHome / Home Assistant
 
 ## Overview
 This project provides a comprehensive, DIY sprinkler automation solution using ESPHome and Home Assistant. It offers advanced irrigation control with features like zone management, scheduling, and smart home integration.
